@@ -76,4 +76,3 @@ movie = input('What is your favorite movie?')
 
 message = 'My name is {0} and my favorite movie is {1}'
 print(message.format(name, movie))
-
